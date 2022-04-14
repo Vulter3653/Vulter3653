@@ -4,8 +4,7 @@
 - 블로그: https://vulter3653.tistory.com/
 - 깃헙: https://github.com/Vulter3653
 
-![Metrics](/github-metrics.svg)   
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+![Metrics](/github-metrics.svg)  
 
 
 ## Summary
