@@ -20,7 +20,7 @@
 - VMware를 이용해 Ubuntu 환경 구축 경험
 - PyQt를 이용한 GUI 프로그래밍 경험
 - MQTT 브로커와 GUI 프로그램 연동 경험
-- Beautiful Soup 활용한 데이터 크롤링
+- Beautiful Soup, Selenium 활용한 데이터 크롤링
 - Firebase를 통해 Android 앱 개발 경험
 
 ### 앞으로 공부할 것들
