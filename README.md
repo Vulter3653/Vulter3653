@@ -16,6 +16,8 @@
 한 번 이상 다루어 본 기술들   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=Selenium&logoColor=white"/></a>
 
 - VMware를 이용해 Ubuntu 환경 구축 경험
 - PyQt를 이용한 GUI 프로그래밍 경험
@@ -23,7 +25,7 @@
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
 - Firebase를 통해 Android 앱 개발 경험
 - Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
-- Unity를 통한 기본적인 vr 개발 경험
+- Unity를 통한 기본적인 VR 개발 경험
 
 ### 앞으로 공부할 것들
 - TensorFlow, PyThorch, Keras 등의 ML/딥러닝 프레임워크
