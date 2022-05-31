@@ -24,8 +24,11 @@
 - Firebase를 통해 Android 앱 개발 경험
 
 ### 앞으로 공부할 것들
--
-
+- TensorFlow, PyThorch, Keras 등의 ML/딥러닝 프레임워크
+- Docker, Kubernetes, Docker Swarm 등의 컨테이너와 컨테이너 오케스트레이션 툴
+- AWS, GCP, Azure 등의 클라우드 플랫폼 
+- Restful API 개발
+ 
 ## Education  
 
 **동아대 스마트헬스케어융합전공**(2018 ~ )  
