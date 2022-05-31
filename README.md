@@ -22,6 +22,8 @@
 - MQTT 브로커와 GUI 프로그램 연동 경험
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
 - Firebase를 통해 Android 앱 개발 경험
+- Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
+- Unity를 통한 기본적인 vr 개발 경험
 
 ### 앞으로 공부할 것들
 - TensorFlow, PyThorch, Keras 등의 ML/딥러닝 프레임워크
