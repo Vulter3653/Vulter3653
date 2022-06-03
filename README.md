@@ -18,7 +18,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=Selenium&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 
 - VMware를 이용해 Ubuntu 환경 구축 경험
 - PyQt를 이용한 GUI 프로그래밍 경험
@@ -49,8 +52,9 @@
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 
 ## Projects
-**[혼자 공부하는 머신러닝 + 딥러닝] 2장 발표 (2022.05.24)**
-> 발표 자료 : [발표자료_미리캔버스](https://www.miricanvas.com/v/113z8zx)
-> 발표 영상 : [발표영상_구글 드라이브](https://drive.google.com/file/d/1boTjjxNiFinRO9Uv2xJvzAO4CS_e5jhq/view)
-> python 에서 ML로 scikit-learn & numpy 이용 / matplotlib 로 시각화
 
+**[혼자 공부하는 머신러닝 + 딥러닝] 2장 발표 (2022.05.24)**
+
+- 발표 자료 : [발표자료_미리캔버스](https://www.miricanvas.com/v/113z8zx)
+- 발표 영상 : [발표영상_구글 드라이브](https://drive.google.com/file/d/1boTjjxNiFinRO9Uv2xJvzAO4CS_e5jhq/view)
+- 개발 언어 / 라이브러리 : Python, sklearn, numpy, matplotlib
