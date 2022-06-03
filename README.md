@@ -16,12 +16,14 @@
 **Tech** :  
 한 번 이상 다루어 본 기술들   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src ="https://img.shields.io/badge/R-blue.svg?&style=flat-square&logo=R&logoColor=#75AADB"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=Selenium&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tableau-white?style=flat-square&logo=Tableau&logoColor=blue"/></a>
 
 - VMware를 이용해 Ubuntu 환경 구축 경험
 - PyQt를 이용한 GUI 프로그래밍 경험
@@ -36,7 +38,7 @@
 - Docker, Kubernetes, Docker Swarm, Jenkins 등의 컨테이너와 컨테이너 오케스트레이션 툴
 - AWS, GCP, Azure 등의 클라우드 플랫폼
 - Gitlab, Jira 구축 및 운영 
--  RESTful, gRPC, Protocol buffer 개발 경험
+- RESTful, gRPC, Protocol buffer 개발 경험
 - ETL 파이프라인 구축 및 운영
  
 ## Education  
