@@ -5,7 +5,7 @@
 - 깃헙: https://github.com/Vulter3653
 
 ![Metrics](/github-metrics.svg)  
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shch3653)](https://solved.ac/shch3653)
 
 ## Summary
 > 2024년 상반기 MLOps 엔지니어 취업을 목표로 공부하고 있습니다. 
