@@ -4,7 +4,8 @@
 - 블로그: https://vulter3653.tistory.com/
 - 깃헙: https://github.com/Vulter3653
 
-![Metrics](/github-metrics.svg)  
+![Metrics](/github-metrics.svg)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=vulter3653&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/vulter3653)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shch3653)](https://solved.ac/shch3653)
 
 ## Summary
@@ -49,9 +50,7 @@
 
 ## Projects
 **[혼자 공부하는 머신러닝 + 딥러닝] 2장 발표 (2022.05.24)**
-> 발표 자료 : https://www.miricanvas.com/v/113z8zx
-
-> 발표 영상 : https://drive.google.com/file/d/1boTjjxNiFinRO9Uv2xJvzAO4CS_e5jhq/view
-
+> 발표 자료 : [발표자료_미리캔버스](https://www.miricanvas.com/v/113z8zx)
+> 발표 영상 : [발표영상_구글 드라이브](https://drive.google.com/file/d/1boTjjxNiFinRO9Uv2xJvzAO4CS_e5jhq/view)
 > python 에서 ML로 scikit-learn & numpy 이용 / matplotlib 로 시각화
 
