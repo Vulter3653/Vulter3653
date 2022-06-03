@@ -50,6 +50,8 @@
 ## Projects
 **[혼자 공부하는 머신러닝 + 딥러닝] 2장 발표 (2022.05.24)**
 > 발표 자료 : https://www.miricanvas.com/v/113z8zx
+
 > 발표 영상 : https://drive.google.com/file/d/1boTjjxNiFinRO9Uv2xJvzAO4CS_e5jhq/view
+
 > python 에서 ML로 scikit-learn & numpy 이용 / matplotlib 로 시각화
 
