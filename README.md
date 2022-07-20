@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-white?style=flat-square&logo=Tableau&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/Bigquery-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
 
 - VMware를 이용해 Ubuntu 환경 구축 경험
 - PyQt를 이용한 GUI 프로그래밍 경험
@@ -32,6 +33,12 @@
 - Firebase를 통해 Android 앱 개발 경험
 - Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
 - Unity를 통한 기본적인 VR 개발 경험
+- 서버리스 데이터 레이크 아키텍처 설계
+- AWS S3 이용한 데이터 업로드 경험
+- AWS Glue를 사용하여 데이터세트 자동 분류
+- AWS EC2에서 Linux 환경 구축 경험
+- MLflow를 Docker를 이용하여 AWS EC2 서버에 올린 경험
+- FastAPI로 모델 배포 경험
 
 ### 앞으로 공부할 것들
 - TensorFlow, PyThorch, Keras 등의 ML/딥러닝 프레임워크
@@ -41,14 +48,15 @@
 - RESTful, gRPC, Protocol buffer 개발 경험
 - ETL 파이프라인 구축 및 운영
  
-## Education  
+## Education
 
-**동아대 스마트헬스케어융합전공/경영학과**(2018 ~ )  
+**동아대 스마트헬스케어융합전공/경영학과**(2018.03 ~ 재학 중)  
 - R기반통계분석
 - 빅데이터분석
 - 텍스트분석
 
 **Study**
+
 - 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)
   - [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
 
@@ -62,3 +70,9 @@
 - 발표 자료 : [발표자료_미리캔버스](https://www.miricanvas.com/v/113z8zx)
 - 발표 영상 : [발표영상_구글 드라이브](https://drive.google.com/file/d/1boTjjxNiFinRO9Uv2xJvzAO4CS_e5jhq/view)
 - 개발 언어 / 라이브러리 : Python, sklearn, numpy, matplotlib
+
+**[혼자 공부하는 머신러닝 + 딥러닝] 6장 발표 (2022.06.28)**
+
+- 발표 자료 : 
+- 발표 영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1WNuFUiAGErhNBvG7GOz6SAKH39j_Lglz/view)
+- 개발 언어 / 라이브러리 : Python, sklearn, numpy, matplotlib 
