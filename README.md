@@ -73,6 +73,6 @@
 
 **[혼자 공부하는 머신러닝 + 딥러닝] 6장 발표 (2022.06.28)**
 
-- 발표 자료 : 
+- 발표 자료 : [발표자료 깃허브](https://github.com/Vulter3653/ML/blob/main/Fruits_apple_pineapple_banana.ipynb)
 - 발표 영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1WNuFUiAGErhNBvG7GOz6SAKH39j_Lglz/view)
 - 개발 언어 / 라이브러리 : Python, sklearn, numpy, matplotlib 
