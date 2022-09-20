@@ -64,7 +64,7 @@
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
   
 - 동아대 IT 취업 동아리 머신러닝 딥러닝 문제해결 스터디(2022.09.05 ~ 진행중)
-  - [머신러닝·딥러닝 문제해결 전략](https://g.co/kgs/wPVrmG)
+  - [머신러닝·딥러닝 문제해결 전략]((https://han.gl/oyGvZl)
 
 
 ## Projects
