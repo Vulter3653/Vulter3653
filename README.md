@@ -88,8 +88,13 @@
 - 발표 영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1WNuFUiAGErhNBvG7GOz6SAKH39j_Lglz/view)
 - 개발 언어 / 라이브러리 : Python, sklearn, numpy, matplotlib
 
-**[머신러닝·딥러닝 문제해결 전략] 4장 발표 (2022.09.12)**
+**[머신러닝·딥러닝 문제해결 전략] <4장 데이터 시각화> 발표 (2022.09.12)**
 
 - 발표자료 : [발표자료_블로그](https://vulter3653.tistory.com/21)
 - 발표영상 : [발표영상_구글 드라이브](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing)
 - 개발 언어 / 라이브러리 : Python, seaborn, matplotlib 
+
+**[머신러닝·딥러닝 문제해결 전략] <6장 자전거 대여 수요 예측 경진대회> 발표 (2022.09.26)**
+
+- 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/22)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1DTxy2FmG7RyXBaORuWfm_x6JAerSlTnN/view?usp=sharing)
