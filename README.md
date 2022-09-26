@@ -92,3 +92,4 @@
 
 - 발표자료 : [발표자료_블로그](https://vulter3653.tistory.com/21)
 - 발표영상 : [발표영상_구글 드라이브](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing)
+- 개발 언어 / 라이브러리 : Python, seaborn, matplotlib 
