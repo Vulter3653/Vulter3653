@@ -57,16 +57,19 @@
 
 **Study**
 
-- 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)
+- 동아대 IT 취업 동아리 머신러닝 스터디(2022.05.29 ~ 2022.07.12)
   - [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
 
-- 동아대 IT 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
+- 동아대 IT 취업 동아리 SQL 스터디(2022.04.12 ~ 2022.07.22)
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
-  
+
+- 동아대 IT 취업 동아리 MLOps 스터디(2022.07.03 ~ 2022.07.24)
+  - [MLOps 스터디 notion](https://www.notion.so/MLOps-Study-3e2a013507e640828d42bb6d7422fdba)
+
 - 동아대 IT 취업 동아리 머신러닝 딥러닝 문제해결 스터디(2022.09.05 ~ 진행중)
   - [머신러닝·딥러닝 문제해결 전략](https://han.gl/oyGvZl)
 
-- 동아대 IT 취업 동아리 도커/쿠버네티스 스터디 (2022.10.01 ~ 진행중)
+- 동아대 IT 취업 동아리 도커/쿠버네티스 스터디 (리더)(2022.10.01 ~ 진행중)
   - AWS_class_resources 중 [Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)
 
 ## Projects
