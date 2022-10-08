@@ -9,7 +9,8 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shch3653)](https://solved.ac/shch3653)
 
 ## Summary
-> 2024년 상반기 MLOps 엔지니어 취업을 목표로 공부하고 있습니다. 
+> 2024년 상반기 MLOps 엔지니어 취업을 목표로 공부하고 있습니다.
+  금융/식품/헬스/게임 등의 데이터에 관심이 있습니다.
 
 ## Skill
 
@@ -78,8 +79,8 @@
 
 **[혼자 공부하는 머신러닝 + 딥러닝] 2장 발표 (2022.05.24)**
 
-- 발표 자료 : [발표자료_미리캔버스](https://www.miricanvas.com/v/113z8zx)
-- 발표 영상 : [발표영상_구글 드라이브](https://drive.google.com/file/d/1boTjjxNiFinRO9Uv2xJvzAO4CS_e5jhq/view)
+- 발표 자료 : [발표자료 미리캔버스](https://www.miricanvas.com/v/113z8zx)
+- 발표 영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1boTjjxNiFinRO9Uv2xJvzAO4CS_e5jhq/view)
 - 개발 언어 / 라이브러리 : Python, sklearn, numpy, matplotlib
 
 **[혼자 공부하는 머신러닝 + 딥러닝] 6장 발표 (2022.06.28)**
@@ -90,7 +91,7 @@
 
 **[머신러닝·딥러닝 문제해결 전략] <4장 데이터 시각화> 발표 (2022.09.12)**
 
-- 발표자료 : [발표자료_블로그](https://vulter3653.tistory.com/21)
+- 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/21)
 - 발표영상 : [발표영상_구글 드라이브](https://drive.google.com/file/d/1k_P7g_2Sftp-tPDFzmukH8xOU2Y9KwMs/view?usp=sharing)
 - 개발 언어 / 라이브러리 : Python, seaborn, matplotlib 
 
@@ -99,3 +100,8 @@
 - 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/22)
 - 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1DTxy2FmG7RyXBaORuWfm_x6JAerSlTnN/view?usp=sharing)
 - 개발 언어 / 라이브러리 : Python, numpy, pandas, seaborn, matplotlib
+
+**[Running Conatiners on EKS 중 '컨테이너란? 리눅스의 프로세스 격리 기능' 부분] 발표 (2022.10.08)**
+
+- [발표자료] : [발표자료 ](https://vulter3653.tistory.com/23)
+- [발표영상] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sGA7c7Vu9o5ZXtkuhChI-8_BNU_hSX2o/view?usp=sharing)
