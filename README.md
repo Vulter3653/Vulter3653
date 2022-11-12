@@ -105,3 +105,15 @@
 
 - [발표자료] : [발표자료 ](https://vulter3653.tistory.com/23)
 - [발표영상] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sGA7c7Vu9o5ZXtkuhChI-8_BNU_hSX2o/view?usp=sharing)
+
+**[머신러닝·딥러닝 문제해결 전략] <7장 범주형 데이터 이진분류 경진대회> 7.3~7.5 발표 (2022.10.31)**
+
+- 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/26)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1Q88CugtT7qhylbWYYy5TqUZmaPAUYUKR/view?usp=share_link)
+- 개발 언어 / 라이브러리 : Python, numpy, pandas, seaborn, matplotlib, sklearn
+
+**[머신러닝·딥러닝 문제해결 전략] <8장 안전 운전자 예측 경진대회> 8.1~8.2 발표 (2022.11.07)**
+
+- 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/27)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1N3svsdzzrzIVNFwyEsWmtZ5Kux1xkf4u/view?usp=share_link)
+- 개발 언어 / 라이브러리 : Python, numpy, pandas, missingno, seaborn, matplotlib
