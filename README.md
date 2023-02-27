@@ -71,7 +71,8 @@
   - 활용도서 : [머신러닝·딥러닝 문제해결 전략](https://han.gl/oyGvZl)
 
 **- 동아대 IT 취업 동아리 도커/쿠버네티스 스터디 (리더)(2022.10.01 ~ 진행중)**
-  - 활용자료 : AWS_class_resources 중 [Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)
+  - 활용자료_도커 : AWS_class_resources 중 [Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)
+  - 활용자료_쿠버네티스 : [대세는 쿠버네티스(초급~중급)](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
 **- 동아대 IT 취업 동아리 AWS DataEngineering 스터디 (2023.01.06 ~ 진행중)**
   - 활용도서 :[Data Engineering with AWS](https://product.kyobobook.co.kr/detail/S000060634854)
@@ -80,7 +81,7 @@
   - 활용도서 :[모던 자바스크립트 Deep Dive](https://product.kyobobook.co.kr/detail/S000001766445)
 
 **- 동아대 IT 취업 동아리 2023_Node.js_백엔드 스터디 (2023.02.15 ~ 진행중)**
-  - 활용도서 :[Node.js 교과서(개정3판)](https://product.kyobobook.co.kr/detail/S000001792685
+  - 활용도서 :[Node.js 교과서(개정3판)](https://product.kyobobook.co.kr/detail/S000001792685)
   
 ## Projects
 
@@ -112,7 +113,7 @@
 
 **[Running Conatiners on EKS 중 '컨테이너란? 리눅스의 프로세스 격리 기능' 부분] 발표 (2022.10.08)**
 
-- [발표자료] : [발표자료 ](https://vulter3653.tistory.com/23)
+- [발표자료] : [발표자료 블로그](https://vulter3653.tistory.com/23)
 - [발표영상] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sGA7c7Vu9o5ZXtkuhChI-8_BNU_hSX2o/view?usp=sharing)
 
 **[머신러닝·딥러닝 문제해결 전략] <7장 범주형 데이터 이진분류 경진대회> 7.3~7.5 발표 (2022.10.31)**
