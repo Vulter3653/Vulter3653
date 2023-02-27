@@ -67,12 +67,21 @@
 **- 동아대 IT 취업 동아리 MLOps 스터디(2022.07.03 ~ 2022.07.24)**
   - [MLOps 스터디 notion](https://www.notion.so/MLOps-Study-3e2a013507e640828d42bb6d7422fdba)
 
-**- 동아대 IT 취업 동아리 머신러닝 딥러닝 문제해결 스터디(2022.09.05 ~ 진행중)**
+**- 동아대 IT 취업 동아리 머신러닝 딥러닝 문제해결 스터디(2022.09.05 ~ 2023.02.13)**
   - 활용도서 : [머신러닝·딥러닝 문제해결 전략](https://han.gl/oyGvZl)
 
 **- 동아대 IT 취업 동아리 도커/쿠버네티스 스터디 (리더)(2022.10.01 ~ 진행중)**
   - 활용자료 : AWS_class_resources 중 [Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)
 
+**- 동아대 IT 취업 동아리 AWS DataEngineering 스터디 (2023.01.06 ~ 진행중)**
+  - 활용도서 :[Data Engineering with AWS](https://product.kyobobook.co.kr/detail/S000060634854)
+
+**- 동아대 IT 취업 동아리 프론트엔드 스터디 (2023.02.04 ~ 진행중)**
+  - 활용도서 :[모던 자바스크립트 Deep Dive](https://product.kyobobook.co.kr/detail/S000001766445)
+
+**- 동아대 IT 취업 동아리 2023_Node.js_백엔드 스터디 (2023.02.15 ~ 진행중)**
+  - 활용도서 :[Node.js 교과서(개정3판)](https://product.kyobobook.co.kr/detail/S000001792685
+  
 ## Projects
 
 **[연구학점제] (2022년도 1학기)**
