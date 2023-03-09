@@ -70,7 +70,7 @@
 **- 동아대 IT 취업 동아리 머신러닝 딥러닝 문제해결 스터디(2022.09.05 ~ 2023.02.13)**
   - 활용도서 : [머신러닝·딥러닝 문제해결 전략](https://han.gl/oyGvZl)
 
-**- 동아대 IT 취업 동아리 도커/쿠버네티스 스터디 (리더)(2022.10.01 ~ 진행중)**
+**- 동아대 IT 취업 동아리 도커/쿠버네티스 스터디 (리더)(2022.10.01 ~ 2023.03.09)**
   - 활용자료_도커 : AWS_class_resources 중 [Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)
   - 활용자료_쿠버네티스 : [대세는 쿠버네티스(초급~중급)](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
