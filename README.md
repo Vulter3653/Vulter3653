@@ -40,10 +40,10 @@
 - AWS EC2에서 Linux 환경 구축 경험
 - MLflow를 Docker를 이용하여 AWS EC2 서버에 올린 경험
 - FastAPI로 모델 배포 경험
+- Docker, Kubernetes 등의 컨테이너와 컨테이너 오케스트레이션 툴
 
 ### 앞으로 공부할 것들
 - TensorFlow, PyThorch, Keras 등의 ML/딥러닝 프레임워크
-- Docker, Kubernetes, Docker Swarm, Jenkins 등의 컨테이너와 컨테이너 오케스트레이션 툴
 - AWS, GCP, Azure 등의 클라우드 플랫폼
 - Gitlab, Jira 구축 및 운영 
 - RESTful, gRPC, Protocol buffer 개발 경험
