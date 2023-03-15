@@ -113,8 +113,8 @@
 
 **[Running Conatiners on EKS 중 '컨테이너란? 리눅스의 프로세스 격리 기능' 부분] 발표 (2022.10.08)**
 
-- [발표자료] : [발표자료 블로그](https://vulter3653.tistory.com/23)
-- [발표영상] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sGA7c7Vu9o5ZXtkuhChI-8_BNU_hSX2o/view?usp=sharing)
+- 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/23)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sGA7c7Vu9o5ZXtkuhChI-8_BNU_hSX2o/view?usp=sharing)
 
 **[머신러닝·딥러닝 문제해결 전략] <7장 범주형 데이터 이진분류 경진대회> 7.3~7.5 발표 (2022.10.31)**
 
@@ -127,3 +127,30 @@
 - 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/27)
 - 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1N3svsdzzrzIVNFwyEsWmtZ5Kux1xkf4u/view?usp=share_link)
 - 개발 언어 / 라이브러리 : Python, numpy, pandas, missingno, seaborn, matplotlib
+
+**[Running Conatiners on EKS 중 '도커 컨테이너는 가상머신인가요? 프로세스인가요?' 부분] 발표 (2022.11.19)**
+
+- 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/28)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1DhkJal2c2r6F7jj17bWrbuNf8_gc9ZzR/view?usp=sharing)
+
+**[머신러닝·딥러닝 문제해결 전략] <9장 향후 판매량 예측 경진대회> 9.3~9.4 발표 (2022.11.28)**
+
+- 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/31), [발표자료 블로그 2](https://vulter3653.tistory.com/32)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1boHIAm0-LRKGnivVvHUxHtcW0WURZ1sj/view?usp=share_link)
+- 개발 언어 / 라이브러리 : Python, numpy, pandas, missingno, seaborn, matplotlib
+
+**[대세는 쿠버네티스(초급~중급) 중 '섹션3.[기초편]기본 오브젝트' 부분 발표) (2023.01.19)**
+
+- 발표자료 : [발표자료 PDF](https://github.com/donga-it-club/2022_Docker_Kubernetes_Study/files/10471661/_._._.3_._._.pdf)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1A2TIjWc87PZmNh5CEF4wLPdjVgbCLl2V/view?usp=sharing)
+
+**[머신러닝·딥러닝 문제해결 전략] <11장 항공 사진 내 선인장 식별 경진대회> 발표 (2023.01.30)**
+
+- 발표자료 : [발표자료 블로그](https://vulter3653.tistory.com/34), [발표자료 블로그 2](https://vulter3653.tistory.com/35), [발표자료 블로그 3](https://vulter3653.tistory.com/36)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sps-s1Lv3MKyCDhO74hrgNXHCVepKnk2/view?usp=sharing)
+- 개발 언어 / 라이브러리 : Python, numpy, pandas, missingno, seaborn, matplotlib
+
+**[대세는 쿠버네티스(초급~중급) 중 '섹션3.[중급편]기본 오브젝트' 부분 발표) (2023.02.09)**
+
+- 발표자료 : [발표자료 Blog](https://vulter3653.tistory.com/38)
+- 발표영상 : [발표영상 구글 드라이브](https://drive.google.com/file/d/166daOEA5aYbFKhCU8CeSVakpTn_H16Ai/view?usp=sharing)
