@@ -1,7 +1,7 @@
 > 깃헙 프로파일 페이지(깃헙 어카운트와 같은 이름으로 만든 리포지토리의 README.md파일)에 올려 놓을 수 있도록 해 보세요. 
 > 프로파일 페이지 꾸미는 방법에 대해서는 [드림코딩 엘리 - 깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)를 참고하시기 바랍니다.
 
-# 홍길동
+# 최승현
 > 깃헙 주소와 더불어 [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)도 넣어 주시면 금상첨화겠죠? 아래 예제도 넣었습니다.
 
 - 이메일:  
