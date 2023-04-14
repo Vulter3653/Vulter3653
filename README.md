@@ -8,7 +8,7 @@
 - 블로그:  
 - 깃헙:  
 
-![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
+![]()
 
 ## Summary
 > 목표로 하는 직군이나 포지션, 관심있는 분야등을 취업 희망 시기와 함께 간략하게 적으세요.
