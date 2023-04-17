@@ -1,4 +1,4 @@
-# 현재 프로필 내용을 실수로 삭제하여 복구중에 있습니다 #
+# 현재 프로필 내용을 복구중에 있습니다 #
 
 > 깃헙 프로파일 페이지(깃헙 어카운트와 같은 이름으로 만든 리포지토리의 README.md파일)에 올려 놓을 수 있도록 해 보세요. 
 > 프로파일 페이지 꾸미는 방법에 대해서는 [드림코딩 엘리 - 깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)를 참고하시기 바랍니다.
@@ -6,9 +6,9 @@
 # 최승현
 > 깃헙 주소와 더불어 [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)도 넣어 주시면 금상첨화겠죠? 아래 예제도 넣었습니다.
 
-- 이메일:  
-- 블로그:  
-- 깃헙:  
+- 이메일: 1839856@donga.ac.kr
+- 블로그: https://vulter3653.tistory.com/
+- 깃헙: https://github.com/Vulter3653
 
 ![]()
 
@@ -34,8 +34,8 @@
 
 ## Education  
 
-**동아대 학과**( )  
-> 수강했던 과목중에 목표로 하는 역할과 관련 있는 것들만 적으세요
+**동아대 스마트헬스케어/경영학과**  
+> 
 
 **Study**
 
