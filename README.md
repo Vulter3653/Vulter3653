@@ -6,14 +6,14 @@
 # 최승현
 > 깃헙 주소와 더불어 [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)도 넣어 주시면 금상첨화겠죠? 아래 예제도 넣었습니다.
 
-- 이메일: 1839856@donga.ac.kr
-- 블로그: https://vulter3653.tistory.com/
-- 깃헙: https://github.com/Vulter3653
+- Email: 1839856@donga.ac.kr
+- Blog: https://vulter3653.tistory.com/
+- Github: https://github.com/Vulter3653
 
 ![]()
 
 ## Summary
-> 목표로 하는 직군이나 포지션, 관심있는 분야등을 취업 희망 시기와 함께 간략하게 적으세요.
+2025년 3월 졸업예정이며, 2024년 하반기 취업을 목표로 공부하고 있습니다. 식품, 건강, 금융 분야의 소스에 관심이 있습니다.
 
 ## Skill
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
@@ -34,15 +34,21 @@
 
 ## Education  
 
-**동아대 스마트헬스케어/경영학과**  
-> 
+**동아대 스마트헬스케어/경영학과**   
+- R기반통계분석 (A)
+- 빅데이터분석 (A+)
+- 텍스트분석 (A)
+- 연구학점Ⅰ (P)
+- 머신러닝Ⅰ
 
 **Study**
 
 
+## Certificate
+- ADsP
 
 ## Projects
-> 수업이나 스터디에서 진행했던 프로젝트들을 적습니다.
+>
  
 
 ### ✅ 최근 블로그 포스팅 내용
