@@ -42,13 +42,18 @@
 - 머신러닝Ⅰ
 
 **Study**
+- [SQL 스터디](https://github.com/donga-it-club/sql-study) (2022.04.12 ~ 2022.07.22)
+- [Machine-Learning 스터디](https://trello.com/invite/b/htPTvw2P/dfd983b0f1597a36a7c6160664209c52/machine-learning-study) (2022.05 ~ 진행 중)
+- [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study) (2022.09.05 ~ 2023.02.13)
+- [도커/쿠버네티스 스터디](https://github.com/donga-it-club/Docker_Kubernetes_Study) (2022.10.01 ~ 2023.03.09)
 
+- [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~ 2023.03.28)
 
 ## Certificate
 - ADsP
 
 ## Projects
->
+> 
  
 
 ### ✅ 최근 블로그 포스팅 내용
