@@ -4,13 +4,12 @@
 > 프로파일 페이지 꾸미는 방법에 대해서는 [드림코딩 엘리 - 깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)를 참고하시기 바랍니다.
 
 # 최승현
-> 깃헙 주소와 더불어 [github metric](https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)도 넣어 주시면 금상첨화겠죠? 아래 예제도 넣었습니다.
 
 - Email: 1839856@donga.ac.kr
 - Blog: https://vulter3653.tistory.com/
 - Github: https://github.com/Vulter3653
 
-![]()
+![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/blob/main/github-metrics.svg)
 
 ## Summary
 2025년 3월 졸업예정이며, 2024년 하반기 취업을 목표로 공부하고 있습니다. 식품, 건강, 금융 분야의 소스에 관심이 있습니다.
