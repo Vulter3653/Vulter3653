@@ -12,7 +12,7 @@
 ![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/blob/main/github-metrics.svg)
 
 ## Summary
-2025년 3월 졸업예정이며, 2024년 하반기 취업을 목표로 공부하고 있습니다. 식품, 건강, 금융 분야의 소스에 관심이 있습니다.
+MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있습니다. 또한 2025년 3월 졸업예정이며 2024년 하반기 취업을 목표로 하고 있습니다. 식품, 헬스케어, 금융, 게임 등 분야의 도메인 소스에 관심이 있습니다.
 
 ## Skill
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
@@ -45,7 +45,6 @@
 - [Machine-Learning 스터디](https://trello.com/invite/b/htPTvw2P/dfd983b0f1597a36a7c6160664209c52/machine-learning-study) (2022.05 ~ )
 - [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study) (2022.09.05 ~ 2023.02.13)
 - [도커/쿠버네티스 스터디](https://github.com/donga-it-club/Docker_Kubernetes_Study) (2022.10.01 ~ 2023.03.09)
-
 - [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~ 2023.03.28)
 
 ## Certificate
