@@ -12,7 +12,7 @@
 ![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/blob/main/github-metrics.svg)
 
 ## Summary
-MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있습니다. 또한 2025년 3월 졸업예정이며 2024년 하반기 취업을 목표로 하고 있습니다. 식품, 헬스케어, 금융, 게임 등 분야의 도메인 소스에 관심이 있습니다.
+MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있습니다. 또한 2025년 2월 졸업예정이며 2024년 하반기 취업을 목표로 하고 있습니다. 식품, 헬스케어, 금융, 게임 등 분야의 도메인 소스에 관심이 있습니다.
 
 ## Skill
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
