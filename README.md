@@ -41,18 +41,33 @@ MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있�
 - 머신러닝Ⅰ
 
 **Study**
-- [실전 게임 및 헬스케어 VR 컨텐츠 제작하기](https://github.com/Vulter3653/Vulter3653/assets/103025358/b32a4a0f-fe97-49ca-af07-4ea8a107981b)
 
-
-- [아마존과 함께하는 Cloud4Career](https://github.com/Vulter3653/Vulter3653/files/11665318/MSE_Poster.final.pdf) (2021.08.27 ~ 2021.08.28)
- - 내용
-  - 
-
-- [SQL 스터디](https://github.com/donga-it-club/sql-study) (2022.04.12 ~ 2022.07.22)
-- [Machine-Learning 스터디](https://trello.com/invite/b/htPTvw2P/dfd983b0f1597a36a7c6160664209c52/machine-learning-study) (2022.05 ~ )
-- [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study) (2022.09.05 ~ 2023.02.13)
-- [도커/쿠버네티스 스터디](https://github.com/donga-it-club/Docker_Kubernetes_Study) (2022.10.01 ~ 2023.03.09)
-- [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~ 2023.03.28)
+- **2021년**
+  - **[실전 게임 및 헬스케어 VR 컨텐츠 제작하기](https://github.com/Vulter3653/Vulter3653/assets/103025358/b32a4a0f-fe97-49ca-af07-4ea8a107981b) (2021.07.05 ~ 2021.07.16)**
+    - Unity 엔진의 조작 및 이해
+    - C# 언어를 활용한 VR 게임 제작 실습
+    - vr 헬스케어 컨텐츠 기획 및 일부 제작
+  - **[Pre-Class 태블로 베이직 클래스](https://github.com/Vulter3653/Vulter3653/assets/103025358/19e6f643-e056-4175-9658-9f53ed231f3f) (2021.08.02 ~ 2021.08.06)**
+  - **[AWS Cloud Practitioner Essentials](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=ueCseKwv60uCDm21K0opww2) (2021.08.25)**
+  - **[아마존과 함께하는 Cloud4Career](https://github.com/Vulter3653/Vulter3653/files/11665318/MSE_Poster.final.pdf) (2021.08.27 ~ 2021.08.28)**
+- **2022년** 
+  - **[사물인터넷(IoT) 구현을 위한 원격 모니터링 시스템 구축 실습](https://github.com/Vulter3653/Vulter3653/assets/103025358/a8088367-2e37-471f-97bd-2a8c1998552e) (2022.01.10 ~ 2022.01.14)**
+  - **[2021학년도 동계 코딩(파이썬) 실무자 양성과정](https://github.com/Vulter3653/Vulter3653/assets/103025358/b627848b-4d1d-43df-a4bc-0776f900e315) (2022.01.20 ~ 2022.01.23)**
+  - **[ADsP(빅데이터 준전문가) 자격증 준비과정](https://github.com/Vulter3653/Vulter3653/assets/103025358/c55a65b9-4b02-4e4e-bb6d-b7e15f9ff091) (2022.01.24 ~ 2022.01.28)**
+  - **[의료기기 IoT 프로그램](https://github.com/Vulter3653/Vulter3653/assets/103025358/2183e290-2fe7-4eb6-956f-5e2d6e637295) (2022.02.15 ~ 2022.02.16)**
+  - **동아대 IT 취업 동아리 - SQL 스터디 (2022.04.12 ~ 2022.07.22)**
+    - 활용 도서 : [데이터 분석을 위한 SQL 레시피](https://zrr.kr/jKDM)
+    - 스터디 깃허브 링크 : [화요일은 나도 SQL 요리사!](https://github.com/donga-it-club/sql-study) 
+  - **[동아대 IT 취업 동아리 - Machine-Learning 스터디](https://trello.com/invite/b/htPTvw2P/dfd983b0f1597a36a7c6160664209c52/machine-learning-study) (2022.05 ~ )**
+  - **[MLOps 스터디](https://zest-break-fb2.notion.site/MLOps-Study-3e2a013507640828d42bb6d7422fdba) (2022.06.24 ~ 2022.07.24)**
+  - **[동아대 IT 취업 동아리 - 머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study) (2022.09.05 ~ 2023.02.13)**
+  - **[동아대 IT 취업 동아리 - 도커/쿠버네티스 스터디](https://github.com/donga-it-club/Docker_Kubernetes_Study) (2022.10.01 ~ 2023.03.09)**
+ 
+- **2023년**
+  - **[동아대 IT 취업 동아리 - AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~ 2023.03.28)**
+  - **[2022학년도 빅데이터 실무자 양성과정](https://github.com/Vulter3653/Vulter3653/assets/103025358/4a9238f6-ee84-4d3e-811d-9c9a4ee083ea) (2023.01.26 ~ 2023.01.28)**
+  - **[동아대 IT 취업 동아리 - 프론트엔드 스터디](https://yoonsang.notion.site/Deep-Dive-6873dcff3f914574a6eda012b1c9a4b5) (2023.02.04 ~ 진행중)**
+  - **[동아대 IT 취업 동아리 - 백엔드 스터디](https://github.com/donga-it-club/2023_Node.js_Backend_Study) (2023.02.15 ~ 인원 부족으로 인해 중단)**
 
 ## Certificate
 - ADsP
