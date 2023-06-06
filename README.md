@@ -29,7 +29,11 @@ MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있�
 
 ### 앞으로 공부할 것들
 
+### Experience
 
+**명지스마트러닝학원 파이썬 강사 (2022.10.05 ~ 진행중)
+- ev3 line tracing 코드 작성
+- Python 에 대한 기초 강의
 
 ## Education  
 
@@ -115,6 +119,14 @@ MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있�
   - [모델 성능 개선_발표 자료 Blog](https://vulter3653.tistory.com/36)
   - [발표 영상_구글 드라이브](https://drive.google.com/file/d/1sps-s1Lv3MKyCDhO74hrgNXHCVepKnk2/view?usp=sharing)
 
+### Data Engineering with AWS 4장 『데이터 카탈로그화, 보안 및 거버넌스』발표 (2023.02.01)
+  - [발표 자료 Blog](https://vulter3653.tistory.com/33)
+  - [발표 영상 구글 드라이브](https://drive.google.com/file/d/134ZWNaY4RSPaVwJmdQvGJ7ZMWcO1Ltyg/view?usp=sharing)
+
+### Data Engineering with AWS 5장 『데이터엔지니어링 파이프라인 설계』발표 (2023.02.08)
+  - [발표 자료 Blog](https://vulter3653.tistory.com/37)
+  - [발표 영상 구글 드라이브](https://drive.google.com/file/d/1gI0YB6NBrQeTIDgUi9lWgLjhExLX2MO9/view?usp=sharing)
+
 ### 대세는 쿠버네티스[초급~중급] 에서 『섹션6.[중급편]기본 오브젝트』발표 (2023.02.09)
   - [발표 자료 Blog](https://vulter3653.tistory.com/38)
   - [발표 영상 구글 드라이브](https://drive.google.com/file/d/166daOEA5aYbFKhCU8CeSVakpTn_H16Ai/view?usp=sharing)
@@ -123,15 +135,7 @@ MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있�
   - [10장 객체 리터럴_발표 자료 Blog](https://vulter3653.tistory.com/39)
   - [11장 원시 값과 객체의 비교_발표 자료 Blog](https://vulter3653.tistory.com/40)
   - [12장 함수_발표 자료 Blog](https://vulter3653.tistory.com/41)
-  
-### Data Engineering with AWS 4장 『데이터 카탈로그화, 보안 및 거버넌스』발표 (2023.02.01)
-  - [발표 자료 Blog](https://vulter3653.tistory.com/33)
-  - [발표 영상 구글 드라이브](https://drive.google.com/file/d/134ZWNaY4RSPaVwJmdQvGJ7ZMWcO1Ltyg/view?usp=sharing)
 
-### Data Engineering with AWS 5장 『데이터엔지니어링 파이프라인 설계』발표 (2023.02.01)
-  - [발표 자료 Blog](https://vulter3653.tistory.com/37)
-  - [발표 영상 구글 드라이브](https://drive.google.com/file/d/1gI0YB6NBrQeTIDgUi9lWgLjhExLX2MO9/view?usp=sharing)
- 
 ### Data Engineering with AWS 9장 『데이터 마트에 데이터 로드』발표 (2023.03.07)
   - [발표 자료 Blog](https://vulter3653.tistory.com/42)
   - [발표 영상 구글 드라이브](https://drive.google.com/file/d/1mcVg_7KxPYWSNR_CQfRUT2y3GnBo7KaS/view?usp=sharing)
