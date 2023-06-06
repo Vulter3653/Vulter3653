@@ -41,6 +41,13 @@ MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있�
 - 머신러닝Ⅰ
 
 **Study**
+- [실전 게임 및 헬스케어 VR 컨텐츠 제작하기](https://github.com/Vulter3653/Vulter3653/assets/103025358/b32a4a0f-fe97-49ca-af07-4ea8a107981b)
+
+
+- [아마존과 함께하는 Cloud4Career](https://github.com/Vulter3653/Vulter3653/files/11665318/MSE_Poster.final.pdf) (2021.08.27 ~ 2021.08.28)
+ - 내용
+  - 
+
 - [SQL 스터디](https://github.com/donga-it-club/sql-study) (2022.04.12 ~ 2022.07.22)
 - [Machine-Learning 스터디](https://trello.com/invite/b/htPTvw2P/dfd983b0f1597a36a7c6160664209c52/machine-learning-study) (2022.05 ~ )
 - [머신러닝 딥러닝 문제해결 전략 스터디](https://github.com/donga-it-club/ML_DL_Problemsolving_Study) (2022.09.05 ~ 2023.02.13)
