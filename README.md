@@ -11,6 +11,8 @@
 
 ![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/blob/main/github-metrics.svg)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shch3653)](https://solved.ac/shch3653)
+
 ## Summary
 MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있습니다. 또한 2025년 2월 졸업예정이며 2024년 하반기 취업을 목표로 하고 있습니다. 식품, 헬스케어, 금융, 게임 등 분야의 도메인 소스에 관심이 있습니다.
 
