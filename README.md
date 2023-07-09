@@ -16,8 +16,7 @@ MLOps 엔지니어와 데이터 과학자를 목표로 삼고 공부하고 있�
 
 ## Skill
 
-**Tech** :  
-한 번 이상 다루어 본 기술들
+**Tech** : 한 번 이상 다루어 본 기술들
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
